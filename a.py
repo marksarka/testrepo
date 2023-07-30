@@ -1,0 +1,1 @@
+	awsToken := "AKIALALEMEL33243OLIB"
