@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minimist": "0.0.8"
+    "minimist": "0.0.8",
+    "express": "4.16.3",
+    "ssh2": "0.2.25"
   }
 }
